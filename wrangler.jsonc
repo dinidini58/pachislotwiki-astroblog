@@ -1,7 +1,7 @@
 {
-  "name": "my-astro-app",
+  "name": "pachi-astroblog",
   // Update to today's date
-  "compatibility_date": "2025-03-25",
+  "compatibility_date": "2025-07-07",
   "assets": {
     "directory": "./dist"
   }

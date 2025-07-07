@@ -1,5 +1,5 @@
-name = "my-astro-app"
-compatibility_date = "2025-03-25"
+name = "pachi-astroblog"
+compatibility_date = "2025-07-07"
 
 [assets]
 directory = "./dist"
